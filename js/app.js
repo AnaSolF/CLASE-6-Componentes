@@ -52,7 +52,7 @@ inputArrayFiltered.forEach(function (element) {
 });
 
 function renderVideo() {
-    let myVideo = new Video("video", "https://pluto.tv/es/live-tv/pluto-tv-cine-estelar-1?utm_source=Google&utm_medium=PaidSearch&utm_campaign=1002017&utm_content=10008200&gclid=Cj0KCQjwwtWgBhDhARIsAEMcxeA7jw7qyufm-VgwgtxduWfxfOyD_C6AoBmn7AxystU4PTQhvHNWtI4aAkS_EALw_wcB", "1500px", "800px"); 
+    let myVideo = new Video("video", "https://pluto.tv/es/live-tv/pluto-tv-cine-estelar-1?utm_source=Google&utm_medium=PaidSearch&utm_campaign=1002017&utm_content=10008200&gclid=Cj0KCQjwwtWgBhDhARIsAEMcxeA7jw7qyufm-VgwgtxduWfxfOyD_C6AoBmn7AxystU4PTQhvHNWtI4aAkS_EALw_wcB", "500px", "800px"); 
     myVideo.render();
 }
 
